@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
- * main - returns alphabet both lower and upper cases
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
